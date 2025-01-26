@@ -17,5 +17,10 @@ https://jovial-marzipan-48c331.netlify.app/
 ### For Software:
 ### Languages Used - HTML , CSS
 ### Frameworks and Libraries  - Bootstrap
-
+## Project Documentation
+https://acrobat.adobe.com/id/urn:aaid:sc:AP:55362a61-4256-4a3b-8be8-5ae6a56c3cc6
+## Team Contributions
+### 1:Aavani K Shine
+### 2:Anagha V S
+### 3:Aiswarya Lakshmi C J
 
